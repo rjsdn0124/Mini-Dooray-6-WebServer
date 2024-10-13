@@ -17,3 +17,11 @@ main<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㄴfeature/{기능 이름}<br/>
 
 기능 완성 시 develop으로 pull request 후 merge 입니당
+
+## erd
+![image](https://github.com/user-attachments/assets/07b872ee-0657-4218-9e16-f43400fee07e)
+
+## api 문서
+api 문서는 각 서버에서 swagger 페이지로 확인할 수 있습니다.
+- http://localhost:8081/swagger-ui/index.html#/
+- http://localhost:8082/swagger-ui/index.html#/
